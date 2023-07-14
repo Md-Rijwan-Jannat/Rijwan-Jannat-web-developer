@@ -1,30 +1,130 @@
-# Rijwan-Jannat-web-developer
-### Hi there 👋, Md Rijwan Jannat
-#### I am a Frontend and junior MREN stack developer
-![I am a Frontend and junior MREN stack developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/331110152_583891610300517_8949044395891827073_n.jpg?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGkpcMQHzBQ3HM-zbKbMEF5WiPCubjSiRJaI8K5uNKJEo4bDNi1wF8OAYgpNxU7wqcuypH3QQ3EHg4wL6J773Pd&_nc_ohc=SY3Y-uqHqDsAX8Rxahz&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfAtmAXvfh1WahNwt5pT39sC0f2cMuG6qCERfW-XvgSvjQ&oe=64B577EF)
+<div align="center">
+<img src="https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.15752-9/361142371_628169352621129_2895344498341381992_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeG7EYRD-unPa2MS3OrC_7k7JdaNnjx6f6Ql1o2ePHp_pBTXZWABABIZSjXum_gmFDes5SKO_7WCLAUFIGDQf2nc&_nc_ohc=CHSq15n04OEAX8BI0PE&_nc_ht=scontent.fjsr11-1.fna&oh=03_AdTbeVrz8JqWITaVfecsKpmOVAid8tXAaeNJWlTzU-PWtQ&oe=64D8A1A7" align="center" style="width: 100%" />
+</div>  
+  
 
-Highly motivated MREN stack junior developer with a passion
+### <div align="center">I am a Frontend and junior MREN stack developer 🚀</div>  
+  
+
+- 🔭 I’m currently working on Job hunting prosses  
+  
+
+- 🌱 I’m currently learning Next,js  
+  
+
+- ❓ Highly motivated MREN stack junior developer with a passion
 for creating innovative web applications. Now , I am hunting
 an opportunity to contribute to a dynamic development team
-and further enhance technical skills.
+and further enhance technical skills.  
+  
 
-Skills: HTML |  CSS | JavaScript | React.js |  Node.js | Express.js |  MongoDB | Next.js
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-- 🔭 I’m currently working on Now job hunting prosses 
-- 🌱 I’m currently learning Next.js  
-- 👯 I’m looking to collaborate on GitHub 
+<br/>  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Md-Rijwan-Jannat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-rijwan-jannat-10b4a9281//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100086218014706)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rijwanjannat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://64a1312f9bc5c72b1524b993--dashing-fudge-319855.netlify.app/)  
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Md-Rijwan-Jannat)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Md-Rijwan-Jannat&show_icons=true)  
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Md-Rijwan-Jannat)  
+</td><td valign="top" width="33%">
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Md-Rijwan-Jannat)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Md-Rijwan-Jannat)  
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/Md-Rijwan-Jannat" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rijwan-jannat-10b4a9281/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Rijwan-Jannat&hide_border=true&layout=compact" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Rijwan-Jannat&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Md-Rijwan-Jannat&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/Md-Rijwan-Jannat" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+                <a href="https://liberapay.com/Md-Rijwan-Jannat" target="_blank" style="display: inline-block;">
+                    <img
+                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
+                        align="center"
+                    />
+                </a>
+            <a href="https://ko-fi.com/Md-Rijwan-Jannat" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
